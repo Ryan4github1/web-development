@@ -1,5 +1,19 @@
-h1 {
-
-    color: yellowgreen;
-
+/* body{
+    background: url('car.avif');
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    background-attachment: fixed;
+    background-color: rgb(159, 255, 127);
+} */
+#lineardemo
+{
+    height: 400px;
+    width: 2000px;
+    background: linear-gradient(to bottom right, pink, skyblue, purple);
+}
+#radialdemo
+{
+    height: 300px;
+    width:300px;
+    background: radial-gradient(pink,skyblue,purple)
 }
