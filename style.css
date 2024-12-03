@@ -1,0 +1,30 @@
+input[type=text]
+{
+    border-color: yellow;
+}
+input[type=password]
+{
+    border-color: red;
+}
+ul>li
+{
+    color: blueviolet;
+}
+h4+p
+{
+    color:orangered;
+    font-style: italic;
+}
+a:hover
+{
+    font-size:30px;
+    color:firebrick;
+}
+li:nth-child(2)
+{
+    background-color:yellowgreen;
+}
+p:before
+{
+    content:'$'
+}
